@@ -1,0 +1,7 @@
+C:\Users\Gnidez.itstep.000.001.002\source\repos\SystemProgrammingLesson2\SystemProgrammingLesson2\bin\Debug\SystemProgrammingLesson2.exe.config
+C:\Users\Gnidez.itstep.000.001.002\source\repos\SystemProgrammingLesson2\SystemProgrammingLesson2\bin\Debug\SystemProgrammingLesson2.exe
+C:\Users\Gnidez.itstep.000.001.002\source\repos\SystemProgrammingLesson2\SystemProgrammingLesson2\bin\Debug\SystemProgrammingLesson2.pdb
+C:\Users\Gnidez.itstep.000.001.002\source\repos\SystemProgrammingLesson2\SystemProgrammingLesson2\obj\Debug\SystemProgrammingLesson2.csprojAssemblyReference.cache
+C:\Users\Gnidez.itstep.000.001.002\source\repos\SystemProgrammingLesson2\SystemProgrammingLesson2\obj\Debug\SystemProgrammingLesson2.csproj.CoreCompileInputs.cache
+C:\Users\Gnidez.itstep.000.001.002\source\repos\SystemProgrammingLesson2\SystemProgrammingLesson2\obj\Debug\SystemProgrammingLesson2.exe
+C:\Users\Gnidez.itstep.000.001.002\source\repos\SystemProgrammingLesson2\SystemProgrammingLesson2\obj\Debug\SystemProgrammingLesson2.pdb
